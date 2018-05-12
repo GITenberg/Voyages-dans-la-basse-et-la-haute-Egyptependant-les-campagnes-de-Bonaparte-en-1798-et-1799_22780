@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25537'
     url: http://www.gutenberg.org/2009/agents/25537
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22780#Voyages-dans-la-basse-et-la-haute-Egyptependant-les-campagnes-de-Bonaparte-en-1798-et-1799
 gutenberg_bookshelf:
 - Egypt
 - France
