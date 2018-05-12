@@ -1,0 +1,35 @@
+_repo: Voyages-dans-la-basse-et-la-haute-Egyptependant-les-campagnes-de-Bonaparte-en-1798-et-1799_22780
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Denon, Vivant
+    alias: Denon, Dominique Vivant, baron
+    birthdate: 1747
+    deathdate: 1825
+    gutenberg_agent_id: '25537'
+    url: http://www.gutenberg.org/2009/agents/25537
+description: ''
+gutenberg_bookshelf:
+- Egypt
+- France
+- FR Voyages et pays
+- FR Sciences et Techniques
+gutenberg_issued: '2007-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22780'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Egypt -- Description and travel'
+- !lcc 'DT'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Egyptian campaign, 1798-1799'
+title: 'Voyages dans la basse et la haute Egypte
+
+  pendant les campagnes de Bonaparte en 1798 et 1799'
+url: http://www.gutenberg.org/ebooks/22780
